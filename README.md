@@ -1,6 +1,6 @@
 Я не понимаю, что я делаю не так
 
 Я перешел на коммит `prepare for merge and rebase`, после чего успешно ответлился, сделав 2 коммита и схема выглядело примерно вот так
-https://ltdfoto.ru/image/yITM1u
+![image](https://github.com/nazarch2000/02-git-03-branching/assets/106932460/56756405-db57-4ec4-9eea-be79b0912a84)
 
 Когда начинаю rebase, сижу на ветке git-merge1, `git rebase -i main` и после этой команды и последующих схема полностью меняется и в network не видно ответвления
